@@ -10,3 +10,10 @@
 :star: Star us on GitHub — it motivates a lot! :star:
 
 If you have any Directory payload, just create a PullRequest. 
+
+# Ideas
+
+[x] WordPress directory list
+[x] git directory list 
+[ ] Magento directory list
+[ ] ... 
