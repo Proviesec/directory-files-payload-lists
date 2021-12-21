@@ -13,7 +13,8 @@ If you have any Directory payload, just create a PullRequest.
 
 # Ideas
 
-[x] WordPress directory list
-[x] git directory list 
-[ ] Magento directory list
-[ ] ... 
+- [x] WordPress directory list
+- [x] git directory list 
+- [x] Admindirectory list
+- [ ] Magento directory list
+- [ ] ... 
