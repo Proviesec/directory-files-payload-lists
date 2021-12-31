@@ -13,3 +13,4 @@ info.php
 && phpinfo()
 phpinfo()
 phpinfo();
+check.php
