@@ -14,3 +14,5 @@ info.php
 phpinfo()
 phpinfo();
 check.php
+php.php
+php
