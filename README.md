@@ -16,7 +16,8 @@ If you have any Directory payload, just create a PullRequest.
 - [x] WordPress directory list
 - [x] git directory list 
 - [x] Admindirectory list
-- [ ] Grafana dir list 
+- [x] Grafana dir list 
+- [x] Phpinfo dir liat
 - [ ] phpMyAdmin dir list 
 - [ ] Magento directory list
 - [ ] ... 
