@@ -16,3 +16,6 @@ web.tar.gz
 web.tgz
 web.xml
 web.zip
+config.yaml
+config.js
+config.txt
