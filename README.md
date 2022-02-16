@@ -17,7 +17,8 @@ If you have any Directory payload, just create a PullRequest.
 - [x] git directory list 
 - [x] Admindirectory list
 - [x] Grafana dir list 
-- [x] Phpinfo dir liat
+- [x] Phpinfo dir list
+- [ ] Config file dir list 
 - [ ] phpMyAdmin dir list 
 - [ ] Magento directory list
 - [ ] ... 
