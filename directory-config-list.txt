@@ -1,3 +1,6 @@
+configuration_general
+config
+configuration
 web.config
 web.config.bak
 web.config.bakup
