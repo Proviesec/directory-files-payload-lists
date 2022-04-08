@@ -30,6 +30,5 @@ Screen
 # How To 
 
 
-# Links
-1. Link 
-2. Link 
+# Writeups
+
