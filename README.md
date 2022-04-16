@@ -25,10 +25,9 @@ If you have any Directory payload, just create a PullRequest.
 - [ ] ... 
 
 # Example
-Screen 
+Screenshot
 
 # How To 
-
 
 # Writeups
 
