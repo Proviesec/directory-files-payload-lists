@@ -35,3 +35,6 @@ backups.tgz
 backups.zip
 backups/
 backup_sql.zip
+sql_backup.zip
+sql_backup.tar
+sql_backup.rar
