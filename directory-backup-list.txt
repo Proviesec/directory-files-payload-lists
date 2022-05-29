@@ -29,7 +29,9 @@ backups.sql
 backups.sql.old
 backups.tar
 backups.tar.bz2
+backup_0.sql.bz2
 backups.tar.gz
 backups.tgz
 backups.zip
 backups/
+backup_sql.zip
