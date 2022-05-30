@@ -1,5 +1,6 @@
 backup
 backup.7z
+backup_old.7z
 backup.cfg
 backup.htpasswd
 backup.inc
