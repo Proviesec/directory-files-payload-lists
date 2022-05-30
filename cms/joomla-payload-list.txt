@@ -1,4 +1,5 @@
 joomla.zip
 joomla.rar
 joomla.7z
+joomla.tgz
 joomla_backup.zip
