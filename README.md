@@ -30,6 +30,7 @@ If you have any Directory payload, just create a PullRequest.
 Screenshot
 
 # Reports
+https://hackerone.com/reports/1358249
 
 # How To 
 
