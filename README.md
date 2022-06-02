@@ -32,6 +32,7 @@ Screenshot
 # Reports
 https://hackerone.com/reports/1358249
 https://hackerone.com/reports/1118898
+https://hackerone.com/reports/1358249
 
 # How To 
 https://github.com/ffuf/ffuf
