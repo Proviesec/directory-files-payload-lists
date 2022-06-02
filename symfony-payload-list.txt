@@ -1,0 +1,4 @@
+/_profiler/phpinfo
+/admin/post/
+/profile/edit
+/profile/change-password
