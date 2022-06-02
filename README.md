@@ -33,6 +33,7 @@ Screenshot
 https://hackerone.com/reports/1358249
 
 # How To 
+https://github.com/ffuf/ffuf
 
 # Writeups
 
