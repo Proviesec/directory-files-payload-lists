@@ -41,4 +41,3 @@ https://hackerone.com/reports/1049402
 https://github.com/ffuf/ffuf
 
 # Writeups
-
