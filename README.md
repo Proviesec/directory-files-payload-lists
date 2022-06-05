@@ -19,12 +19,12 @@ If you have any Directory payload, just create a PullRequest.
 - [x] git directory list 
 - [x] Admindirectory list
 - [x] Grafana dir list 
+- [x] Joomla dir list
 - [x] Phpinfo dir list
 - [ ] top dir list 
 - [ ] Config file dir list 
 - [ ] phpMyAdmin dir list 
 - [ ] Magento directory list
-- [ ] ... 
 
 # Example
 Screenshot
