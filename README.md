@@ -22,6 +22,7 @@ If you have any Directory payload, just create a PullRequest.
 - [x] Joomla dir list
 - [x] Wordpress dir list
 - [x] Phpinfo dir list
+- [ ] Symfony dir list
 - [ ] top dir list 
 - [ ] Config file dir list 
 - [ ] phpMyAdmin dir list 
