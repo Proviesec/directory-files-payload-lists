@@ -20,6 +20,7 @@ If you have any Directory payload, just create a PullRequest.
 - [x] Admindirectory list
 - [x] Grafana dir list 
 - [x] Joomla dir list
+- [x] Wordpress dir list
 - [x] Phpinfo dir list
 - [ ] top dir list 
 - [ ] Config file dir list 
