@@ -39,3 +39,7 @@ backup_sql.zip
 sql_backup.zip
 sql_backup.tar
 sql_backup.rar
+admin_backup
+admin/backup/
+adminbackups
+admin/backups/
