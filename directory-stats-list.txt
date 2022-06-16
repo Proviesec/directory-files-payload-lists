@@ -5,3 +5,4 @@
 /stats/daily/
 /stats/monthly/
 /stats/top
+/awstats
