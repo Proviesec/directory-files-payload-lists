@@ -1,3 +1,4 @@
 grafana
 grafana-login
 grafana-system-services-dashboard.json
+GrafanaInstall.txt
