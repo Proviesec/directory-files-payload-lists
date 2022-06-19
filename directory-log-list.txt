@@ -1,0 +1,5 @@
+log.txt
+testlog.txt
+git-log.txt
+nginx.txt
+nginx_access.log
