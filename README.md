@@ -13,6 +13,10 @@
 
 If you have any Directory payload, just create a PullRequest. 
 
+# how to use 
+Use my appropriate tool for this 
+https://github.com/Proviesec/PSFuzz 
+
 # Ideas
 
 - [x] WordPress directory list
