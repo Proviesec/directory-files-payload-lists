@@ -31,6 +31,7 @@ https://github.com/Proviesec/PSFuzz
 - [ ] Config file dir list 
 - [ ] phpMyAdmin dir list 
 - [ ] Magento directory list
+- [ ] htaccess dir list 
 
 # Example
 Screenshot
