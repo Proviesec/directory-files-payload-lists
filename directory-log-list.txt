@@ -2,4 +2,8 @@ log.txt
 testlog.txt
 git-log.txt
 nginx.txt
+nginx.log
 nginx_access.log
+access.log
+var/log/nginx.log
+var/log/access.log
