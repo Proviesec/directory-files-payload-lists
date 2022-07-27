@@ -22,3 +22,4 @@ web.zip
 config.yaml
 config.js
 config.txt
+config_old.yaml
