@@ -126,6 +126,8 @@ phpMyAdmin-3.3.4/
 phpMyAdmin-3.3.4-rc1/
 phpMyAdmin-4/
 phpMyAdmin4/
+phpMyAdmin-5/
+phpMyAdmin5/
 phpMyAdminBackup/
 phpmyadmin-old
 phpmyadmin/scripts/setup.php
