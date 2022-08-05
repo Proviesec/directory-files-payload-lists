@@ -129,6 +129,9 @@ phpMyAdmin4/
 phpMyAdmin-4.1.0/
 phpMyAdmin-4.2.0/
 phpMyAdmin-4.3.0/
+phpMyAdmin-4.4.0/
+phpMyAdmin-4.5.0/
+phpMyAdmin-4.6.0/
 phpMyAdmin-5/
 phpMyAdmin5/
 phpMyAdminBackup/
