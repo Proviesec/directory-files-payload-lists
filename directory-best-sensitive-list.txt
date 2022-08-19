@@ -1,1 +1,3 @@
 config.xml
+admin/.config
+.config
