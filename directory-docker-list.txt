@@ -1,1 +1,5 @@
 docker-compose.yml
+dockerfile
+docker-compose.yaml
+README.md
+docker.txt
