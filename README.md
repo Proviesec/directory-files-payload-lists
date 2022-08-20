@@ -42,6 +42,7 @@ https://hackerone.com/reports/1118898
 https://hackerone.com/reports/1358249
 https://hackerone.com/reports/1049402
 https://hackerone.com/reports/1164854
+https://hackerone.com/reports/1417288
 
 # How To 
 https://github.com/ffuf/ffuf
