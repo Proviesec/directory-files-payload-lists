@@ -5,5 +5,5 @@ stats/usage
 stats/daily/
 stats/monthly/
 stats/top
-awstats
-webstats
+awstats/
+webstats/
