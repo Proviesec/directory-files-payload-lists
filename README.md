@@ -33,6 +33,7 @@ https://github.com/Proviesec/PSFuzz
 - [ ] Magento directory list
 - [x] htaccess dir list 
 
+
 # Example
 Screenshot
 
