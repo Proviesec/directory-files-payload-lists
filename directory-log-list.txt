@@ -9,3 +9,5 @@ var/log/nginx.log
 var/log/access.log
 log/
 var/log/
+systemlog.log
+debug.log
