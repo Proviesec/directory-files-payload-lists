@@ -11,3 +11,4 @@ log/
 var/log/
 systemlog.log
 debug.log
+access.log
