@@ -7,3 +7,5 @@ nginx_access.log
 access.log
 var/log/nginx.log
 var/log/access.log
+log/
+var/log/
