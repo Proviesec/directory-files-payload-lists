@@ -2,17 +2,14 @@
 phpinfo
 phpinfo.php
 info.php
-|| phpinfo()
-| phpinfo()
  {${phpinfo()}}
 ;phpinfo()
 ;phpinfo();//
 ';phpinfo();//
 {${phpinfo()}}
-& phpinfo()
-&& phpinfo()
 phpinfo()
 phpinfo();
 check.php
 php.php
 _profiler/phpinfo
+phppsinfo.php
