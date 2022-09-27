@@ -27,3 +27,4 @@ config_old.yaml
 config_old.js
 config.bak
 config.tmp
+config.backup
