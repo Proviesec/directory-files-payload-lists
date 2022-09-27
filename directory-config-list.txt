@@ -25,3 +25,4 @@ config.js
 config.txt
 config_old.yaml
 config_old.js
+config.bak
