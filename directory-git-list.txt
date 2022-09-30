@@ -25,4 +25,5 @@
 .gitlab/route-map.yml
 .gitmodules
 .gitreview
+.git/objects
 git
