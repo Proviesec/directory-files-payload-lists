@@ -2,6 +2,7 @@ grafana
 grafana-login
 grafana-system-services-dashboard.json
 GrafanaInstall.txt
+intitle:"Grafana - Home" inurl:/orgid
 grafana-dashboard 
 dashboard
 intitle:"grafana" inurl:"/grafana/login" "Forgot your password"
