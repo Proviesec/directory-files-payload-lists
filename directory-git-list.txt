@@ -37,3 +37,4 @@ git-archive
 git-bisect
 git-bisect--helper
 git-blame
+git-write-tree
