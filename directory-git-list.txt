@@ -27,3 +27,13 @@
 .gitreview
 .git/objects
 git
+git-add
+git-add--interactive
+git-am
+git-annotate
+git-apply
+git-archimport
+git-archive
+git-bisect
+git-bisect--helper
+git-blame
