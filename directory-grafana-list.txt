@@ -4,3 +4,4 @@ grafana-system-services-dashboard.json
 GrafanaInstall.txt
 grafana-dashboard 
 dashboard
+public/img/grafana_mask_icon.svg
