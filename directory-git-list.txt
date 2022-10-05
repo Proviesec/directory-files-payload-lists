@@ -54,3 +54,4 @@ git-remote-ftps
 git-remote-fd
 git-remote-ext
 git-repack
+git-tag
