@@ -1,1 +1,2 @@
-inurl:"/app/kibana#"
+app/kibana
+kibana 
