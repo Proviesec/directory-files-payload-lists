@@ -1,4 +1,4 @@
-# directory-payload-list
+# directory and files payload-list
 [![License](https://img.shields.io/badge/license-MIT-_red.svg)](https://opensource.org/licenses/MIT)
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwisiswant0/go-dork/issues)
 
@@ -11,7 +11,7 @@
 
 :star: Star us on GitHub — it motivates a lot! :star:
 
-If you have any Directory payload, just create a PullRequest. 
+If you have any Directory or files payload, just create a PullRequest. 
 
 # how to use 
 Use my appropriate tool for this 
