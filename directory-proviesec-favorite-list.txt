@@ -1,4 +1,5 @@
 admin
+.admin
 licence.txt
 readme.txt
 config.xml
@@ -7,3 +8,5 @@ config.xml
 admin/dashboard
 sitemanager
 error.log
+_admin.html
+_phpmyadmin
