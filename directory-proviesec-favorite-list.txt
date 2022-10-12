@@ -3,3 +3,4 @@ licence.txt
 readme.txt
 config.xml
 .git-credentials
+.git/config
