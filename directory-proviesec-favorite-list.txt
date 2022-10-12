@@ -4,3 +4,6 @@ readme.txt
 config.xml
 .git-credentials
 .git/config
+admin/dashboard
+sitemanager
+error.log
