@@ -1,1 +1,4 @@
 admin
+licence.txt
+readme.txt
+config.xml
