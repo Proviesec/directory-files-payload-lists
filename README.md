@@ -53,3 +53,4 @@ https://github.com/ffuf/ffuf
 # Writeups
 
 https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e
+https://infosecwriteups.com/how-i-was-able-to-bypass-the-admin-panel-without-the-credentials-d65f90e0e1e4
