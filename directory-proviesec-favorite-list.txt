@@ -10,3 +10,5 @@ sitemanager
 error.log
 _admin.html
 _phpmyadmin
+grafana
+kibana
