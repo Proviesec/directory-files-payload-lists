@@ -8,9 +8,11 @@ config.xml
 config
 config.zip
 config.txt
+config.js
 configuration.xml
 configuration.txt
 configuration.zip
+configuration.js
 .git-credentials
 .git/config
 admin/dashboard
@@ -39,3 +41,5 @@ setup.sql
 mysql.sql
 users.sql
 backup.sql
+prometheus/prometheus.yml
+prometheus.yml
