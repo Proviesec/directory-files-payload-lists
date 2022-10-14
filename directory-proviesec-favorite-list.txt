@@ -35,3 +35,7 @@ awstats
 monitoring
 wp-config.bak
 wp-config-backup.txt
+setup.sql
+mysql.sql
+users.sql
+backup.sql
