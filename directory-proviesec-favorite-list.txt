@@ -33,3 +33,5 @@ setting.txt
 webstats
 awstats
 monitoring
+wp-config.bak
+wp-config-backup.txt
