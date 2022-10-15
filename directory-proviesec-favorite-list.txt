@@ -1,4 +1,5 @@
 admin
+admin/
 .admin
 admin.php
 admin.html
@@ -6,6 +7,7 @@ licence.txt
 readme.txt
 config.xml
 config
+config/
 config.zip
 config.txt
 config.js
@@ -37,6 +39,7 @@ configuration.yml
 .git-credentials
 .git/config
 admin/dashboard
+admin/dashboard/
 admin_backup
 admin/backup/
 adminbackups
@@ -62,8 +65,11 @@ conffig.xml
 setting.xml
 setting.txt
 webstats
+webstats/
 awstats
+awstats/
 monitoring
+monitoring/
 wp-config.bak
 wp-config-backup.txt
 setup.sql
