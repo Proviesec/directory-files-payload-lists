@@ -97,3 +97,4 @@ sftp.json
 docker-compose.yaml
 docker-compose-dev.yaml
 account_mngr/
+api-docs/
