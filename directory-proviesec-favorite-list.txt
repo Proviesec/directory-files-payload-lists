@@ -170,3 +170,7 @@ admin/configuration.json
 admin/configuration.yaml
 admin/configuration.yml
 .DS_Store
+npm-debug.log
+.npm/
+.npm
+.npm/_logs/
