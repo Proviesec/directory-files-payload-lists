@@ -55,6 +55,7 @@ errors/errors.log
 custom.log
 nginx.log
 kernl.log
+logs/
 _admin.html
 _phpmyadmin
 phpmyadmin
@@ -174,3 +175,4 @@ npm-debug.log
 .npm/
 .npm
 .npm/_logs/
+settings.json
