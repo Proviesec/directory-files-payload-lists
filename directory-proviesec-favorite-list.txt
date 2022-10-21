@@ -169,3 +169,4 @@ admin/configuration.js
 admin/configuration.json
 admin/configuration.yaml
 admin/configuration.yml
+.DS_Store
