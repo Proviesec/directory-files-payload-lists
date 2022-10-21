@@ -52,6 +52,9 @@ wp-admin/backup.zip
 sitemanager
 error.log
 errors/errors.log
+custom.log
+nginx.log
+kernl.log
 _admin.html
 _phpmyadmin
 phpmyadmin
