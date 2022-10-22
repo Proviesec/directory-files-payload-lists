@@ -340,3 +340,4 @@ users.yml
 wercker.yml
 wp-cli.local.yml
 wp-cli.yml
+Makefile
