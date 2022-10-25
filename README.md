@@ -28,11 +28,12 @@ https://github.com/Proviesec/PSFuzz
 - [x] Wordpress dir list
 - [x] Phpinfo dir list
 - [x] Symfony dir list
-- [ ] top dir list 
+- [x] top dir list 
 - [x] Config file dir list 
 - [x] phpMyAdmin dir list 
 - [ ] Magento directory list
 - [x] htaccess dir list 
+- [ ] dir list
 
 
 
