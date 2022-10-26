@@ -341,3 +341,4 @@ wercker.yml
 wp-cli.local.yml
 wp-cli.yml
 Makefile
+_wpeprivate/config.json
