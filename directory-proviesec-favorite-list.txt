@@ -343,3 +343,5 @@ wp-cli.yml
 Makefile
 _wpeprivate/config.json
 nagios/side.php
+setup
+setup/
