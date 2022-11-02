@@ -355,3 +355,8 @@ winscp.ini
 filezilla.cml
 server-status
 server-status/
+plesk-stat
+.editorconfig
+ansible/.secrets
+.secrets
+main.yml
