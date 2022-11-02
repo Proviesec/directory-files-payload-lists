@@ -345,3 +345,13 @@ _wpeprivate/config.json
 nagios/side.php
 setup
 setup/
+ws_ftp.ini
+.svn/
+.idea/
+.swp
+.htpasswd
+.coredump
+winscp.ini
+filezilla.cml
+server-status
+server-status/
