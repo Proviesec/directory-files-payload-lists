@@ -360,3 +360,4 @@ plesk-stat
 ansible/.secrets
 .secrets
 main.yml
+check.php
