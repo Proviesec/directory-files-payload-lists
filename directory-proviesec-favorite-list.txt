@@ -361,3 +361,4 @@ ansible/.secrets
 .secrets
 main.yml
 check.php
+conf/logs/
