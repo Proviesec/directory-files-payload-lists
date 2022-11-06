@@ -362,3 +362,5 @@ ansible/.secrets
 main.yml
 check.php
 conf/logs/
+api/config/
+api/config
