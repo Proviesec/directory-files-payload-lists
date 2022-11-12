@@ -498,3 +498,4 @@ wp-config.bak
 wp-config.php.zip
 wp-content/debug.log
 ws_ftp.ini
+auth.json
