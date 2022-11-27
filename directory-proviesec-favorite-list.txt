@@ -16,6 +16,14 @@
 .coveralls.yml
 .drone.yml
 .editorconfig
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env
+.env.development
+.env.test
+.env.production
 .git-credentials
 .git/COMMIT_EDITMSG
 .git/FETCH_HEAD
