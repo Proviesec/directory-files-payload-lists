@@ -388,6 +388,7 @@ filezilla.cml
 fr.yml
 grafana
 grafana/login
+install.sh
 jupyter_notebook_config.json
 kernl.log
 keys.yml
@@ -468,6 +469,7 @@ swagger/v2/api-docs
 swagger/v2/swagger.json
 swagger/v2/swagger.yaml
 tasks/main.yml
+task.sh
 test/dummy/config/database.yml
 test/dummy/config/locales/en.yml
 test/dummy/config/secrets.yml
