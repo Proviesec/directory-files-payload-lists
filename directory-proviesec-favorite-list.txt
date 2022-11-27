@@ -302,6 +302,7 @@ config.bak
 config.js
 config.json
 config.tmp
+config.sh
 config.txt
 config.xml
 config.yaml
