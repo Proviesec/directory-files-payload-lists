@@ -393,6 +393,8 @@ en.yml
 error.log
 errors/errors.log
 es.yml
+etc/evergreen.yml
+etc
 filezilla.cml
 fr.yml
 grafana
