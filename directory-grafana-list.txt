@@ -5,3 +5,4 @@ GrafanaInstall.txt
 grafana-dashboard 
 dashboard
 public/img/grafana_mask_icon.svg
+log-grafana-javascript-agent
