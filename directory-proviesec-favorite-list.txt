@@ -400,6 +400,7 @@ es.yml
 etc/evergreen.yml
 etc
 filezilla.cml
+files-backup.zip
 fr.yml
 grafana
 grafana/login
