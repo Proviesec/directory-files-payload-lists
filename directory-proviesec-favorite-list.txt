@@ -380,6 +380,10 @@ database.yml
 databases.yml
 de.yml
 debug
+debug/pprof/
+debug.php
+debug.js
+debug/
 debug.cgi
 deployment-config.json
 dfshealth.jsp
