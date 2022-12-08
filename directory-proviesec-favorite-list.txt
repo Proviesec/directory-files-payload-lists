@@ -477,6 +477,7 @@ swagger.yaml
 swagger/api-docs
 swagger/index.html
 swagger/swagger
+swagger/v1/index.php
 swagger/v1/api-docs
 swagger/v1/swagger.json
 swagger/v1/swagger.json/
