@@ -37,7 +37,7 @@ https://github.com/Proviesec/PSFuzz
 
 
 # Example
-Screenshot
+![image](https://user-images.githubusercontent.com/6010786/206578188-52dd4000-8268-446e-86be-caeea139ea85.png)
 
 # Reports
 https://hackerone.com/reports/1358249
