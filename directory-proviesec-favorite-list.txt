@@ -492,6 +492,8 @@ test/dummy/config/locales/en.yml
 test/dummy/config/secrets.yml
 test/fixtures/users.yml
 travis.yml
+uploads
+uploads/
 users.sql
 users.yml
 web.Debug.config
