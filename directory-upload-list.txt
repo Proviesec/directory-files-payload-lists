@@ -1,0 +1,3 @@
+upload
+uploads
+wp-content/uploads/
