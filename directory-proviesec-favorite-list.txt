@@ -402,13 +402,17 @@ etc
 filezilla.cml
 files-backup.zip
 fr.yml
+ftpstat
+ftpstat/
 grafana
 grafana/login
+grafana/
 install.sh
 jupyter_notebook_config.json
 kernl.log
 keys.yml
 kibana
+kibana/
 lgtm.yml
 licence.txt
 logs/
@@ -434,6 +438,7 @@ phpversion.php
 pinfo.php
 pipeline.yml
 plesk-stat
+plesk-stat/
 prometheus.yml
 prometheus/prometheus.yml
 push_ssh_keys.yml
@@ -460,6 +465,7 @@ sftp.json
 shell.php
 shippable.yml
 sitemanager
+stiemanager/
 solano.yml
 spec/dummy/config/database.yml
 spec/dummy/config/locales/en.yml
@@ -469,6 +475,7 @@ sql_backup.tar
 sql_backup.zip
 src/main/resources/config.yml
 swagger
+swagger/
 swagger-resources
 swagger-ui
 swagger-ui.html
@@ -506,6 +513,8 @@ web.config.tmp
 web.config.txt
 web.config::$DATA
 web.rar
+webstat
+webstat/
 webstats
 webstats/
 wercker.yml
