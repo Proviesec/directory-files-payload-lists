@@ -513,6 +513,7 @@ web.config.tmp
 web.config.txt
 web.config::$DATA
 web.rar
+web.zip
 webstat
 webstat/
 webstats
