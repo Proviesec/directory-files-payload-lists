@@ -12,6 +12,7 @@
 .codeclimate.yml
 .codefresh/codefresh.yml
 .codeship.yml
+.config
 .coredump
 .coveralls.yml
 .drone.yml
