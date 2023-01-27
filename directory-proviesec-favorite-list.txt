@@ -518,6 +518,11 @@ swagger/v2/swagger.json
 swagger/v2/swagger.yaml
 task.sh
 tasks/main.yml
+test/
+test/config/
+test/config.yml
+test/config.xml
+test/backup.zip
 test/dummy/config/database.yml
 test/dummy/config/locales/en.yml
 test/dummy/config/secrets.yml
