@@ -4,3 +4,7 @@ docker-compose.yml | version
 Makefile | MAKEFLAGS
 travis.yml | notifications
 config.txt | password | username | hostname
+.aws/config | [default]
+.aws/credentials | [default]
+.git-credentials | https
+.secrets | TOKEN | PASSWORD | password | KEY | vault
