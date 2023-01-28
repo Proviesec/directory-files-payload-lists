@@ -1,1 +1,6 @@
 .env | #!/bin/bash
+config.xml | <?xml
+docker-compose.yml | version
+Makefile | MAKEFLAGS
+travis.yml | notifications
+config.txt | password | username | hostname
