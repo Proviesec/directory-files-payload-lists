@@ -9,3 +9,4 @@ config.txt | password | username | hostname
 .git-credentials | https
 .secrets | TOKEN | PASSWORD | password | KEY | vault | token
 admin/config | global | username | bash | key | token | TOKEN | DB | user
+wp-config.bak | WordPress
