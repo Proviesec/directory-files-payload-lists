@@ -418,6 +418,7 @@ docker-compose.yaml
 docker-compose.yml
 docs/_config.yml
 en.yml
+err.log
 error.log
 errors/errors.log
 es.yml
