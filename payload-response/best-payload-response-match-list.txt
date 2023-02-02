@@ -11,3 +11,4 @@ config.txt | password | username | hostname
 admin/config | global | username | bash | key | token | TOKEN | DB | user
 wp-config.bak | WordPress
 wp-content/debug.log | Notice | line
+phpmyadmin/ | themes/pmahomme/img
