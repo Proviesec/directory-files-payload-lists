@@ -10,3 +10,4 @@ config.txt | password | username | hostname
 .secrets | TOKEN | PASSWORD | password | KEY | vault | token
 admin/config | global | username | bash | key | token | TOKEN | DB | user
 wp-config.bak | WordPress
+wp-content/debug.log | Notice | line
