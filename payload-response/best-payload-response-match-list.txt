@@ -3,7 +3,8 @@ config.xml | <?xml
 docker-compose.yml | version
 Makefile | MAKEFLAGS
 travis.yml | notifications
-config.txt | password | username | hostname
+.travis.yml | notifications
+config.txt | password | username | hostname | Key | token
 .aws/config | [default]
 .aws/credentials | [default]
 .git-credentials | https
@@ -12,3 +13,4 @@ admin/config | global | username | bash | key | token | TOKEN | DB | user
 wp-config.bak | WordPress
 wp-content/debug.log | Notice | line
 phpmyadmin/ | themes/pmahomme/img
+backup | Index of
