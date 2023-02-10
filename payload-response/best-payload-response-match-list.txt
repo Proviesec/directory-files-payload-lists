@@ -1,4 +1,4 @@
-.env | #!/bin/bash
+.env | #!/bin/bash | PASSWORD | USERNAME | password | host | HOST
 config.xml | <?xml
 docker-compose.yml | version
 Makefile | MAKEFLAGS
