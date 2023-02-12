@@ -49,6 +49,7 @@
 .npm
 .npm/
 .npm/_logs/
+.project
 .rubocop.yml
 .scrutinizer.yml
 .secrets
