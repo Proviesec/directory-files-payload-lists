@@ -7,6 +7,7 @@
 .azure-pipelines.yml
 .bluemix/pipeline.yml
 .buildkite/pipeline.yml
+.buildpath
 .circleci/circle.yml
 .circleci/config.yml
 .codeclimate.yml
@@ -54,9 +55,11 @@
 .scrutinizer.yml
 .secrets
 .semaphore/semaphore.yml
+.settings/
 .svn/
 .swp
 .travis.yml
+.vscode/settings.json
 .wp-cli/config.yml
 Backup/
 Makefile
@@ -465,6 +468,8 @@ pinfo.php
 pipeline.yml
 plesk-stat
 plesk-stat/
+Postman/
+postman/
 prometheus.yml
 prometheus/prometheus.yml
 push_ssh_keys.yml
