@@ -2,7 +2,6 @@
 .admin
 .appveyor.yml
 .aws/
-
 .aws/config
 .aws/credentials
 .azure-pipelines.yml
