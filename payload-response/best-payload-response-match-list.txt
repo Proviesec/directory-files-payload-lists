@@ -14,3 +14,4 @@ wp-config.bak | WordPress
 wp-content/debug.log | Notice | line
 phpmyadmin/ | themes/pmahomme/img
 backup | Index of
+_wpeprivate/config.json | WPENGINE
