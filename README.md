@@ -34,7 +34,7 @@ https://github.com/Proviesec/PSFuzz
 - [ ] Magento directory list
 - [x] htaccess dir list 
 - [ ] dir list
-- [ ] Match payload for list 
+- [x] Appropriate response for the respective directory or file 
 
 
 # Example
