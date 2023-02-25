@@ -151,6 +151,7 @@ api/configuration.yml
 api/configuration.zip
 api/dashboard
 api/dashboard/
+api/getEnvVars
 api/licence.txt
 api/readme.txt
 api/web.Debug.config
