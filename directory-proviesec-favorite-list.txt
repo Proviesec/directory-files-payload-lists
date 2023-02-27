@@ -102,6 +102,7 @@ admin/configuration.yml
 admin/configuration.zip
 admin/dashboard
 admin/dashboard/
+admin/environment.js
 admin/licence.txt
 admin/readme.txt
 admin/web.Debug.config
@@ -151,6 +152,7 @@ api/configuration.yml
 api/configuration.zip
 api/dashboard
 api/dashboard/
+api/environment.js
 api/getEnvVars
 api/licence.txt
 api/readme.txt
@@ -205,6 +207,7 @@ app/configuration.yml
 app/configuration.zip
 app/dashboard
 app/dashboard/
+app/environment.js
 app/grafana
 app/kibana
 app/licence.txt
