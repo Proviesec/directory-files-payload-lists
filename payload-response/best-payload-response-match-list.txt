@@ -3,11 +3,12 @@ config.xml | <?xml
 docker-compose.yml | version
 Makefile | MAKEFLAGS
 travis.yml | notifications
-.travis.yml | notifications
+.travis.yml | notifications | 
 config.txt | password | username | hostname | Key | token
 .aws/config | [default]
 .aws/credentials | [default]
 .git-credentials | https
+.gitignore | composer | project
 .secrets | TOKEN | PASSWORD | password | KEY | vault | token
 admin/config | global | username | bash | key | token | TOKEN | DB | user
 wp-config.bak | WordPress
