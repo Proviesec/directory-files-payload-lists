@@ -410,6 +410,7 @@ configuration.zip
 custom.log
 database.yml
 databases.yml
+deadlocks.log
 de.yml
 debug
 debug.cgi
