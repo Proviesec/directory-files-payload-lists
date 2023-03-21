@@ -277,6 +277,8 @@ ci/push_ssh_keys.yml
 ci/push_ssh_keys_remote.yml
 ci/solano.yml
 circle.yml
+classicapi/doc/
+classicapi
 cloud-provider.yaml
 codefresh.yml
 codeship-services.yml
