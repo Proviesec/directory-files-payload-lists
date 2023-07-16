@@ -433,6 +433,7 @@ err.log
 error.log
 errors/errors.log
 env.js
+env.php
 environment.js
 es.yml
 etc
