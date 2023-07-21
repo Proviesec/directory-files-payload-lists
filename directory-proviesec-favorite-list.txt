@@ -50,6 +50,7 @@
 .npm
 .npm/
 .npm/_logs/
+.nova
 .project
 .rubocop.yml
 .scrutinizer.yml
