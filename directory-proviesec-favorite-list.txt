@@ -403,6 +403,7 @@ config/web.rar
 config_old.js
 config_old.yaml
 config_old.yml
+config-sets.json
 configuration.js
 configuration.json
 configuration.txt
