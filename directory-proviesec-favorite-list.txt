@@ -464,6 +464,8 @@ monitoring/
 mysql.sql
 nagios/side.php
 nginx.log
+nginx.conf.sample
+nginx.conf
 nl.yml
 npm-debug.log
 parameters.yml
