@@ -582,6 +582,10 @@ wp-cli.local.yml
 wp-cli.yml
 wp-config-backup.txt
 wp-config.bak
+wp-config,txt
+wp-config,bak
+wp-config,php
+wp-config.md
 wp-config.php.zip
 wp-content/debug.log
 ws_ftp.ini
