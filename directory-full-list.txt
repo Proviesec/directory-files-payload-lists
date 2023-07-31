@@ -177974,6 +177974,10 @@ wp-app.log
 wp-atom
 wp-cli.yml
 wp-commentsrss2
+wp-config,txt
+wp-config,bak
+wp-config,php
+wp-config.md
 wp-config
 wp-config.inc
 wp-config.old
