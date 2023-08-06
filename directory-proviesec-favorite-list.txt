@@ -570,6 +570,7 @@ web.config.txt
 web.config::$DATA
 web.rar
 web.zip
+WEB-INF
 webstat
 webstat/
 webstats
