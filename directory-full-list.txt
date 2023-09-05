@@ -4475,6 +4475,7 @@ $Ð¸Ð¼Ñ_Ð¿ÐµÑ€ÐµÐ¼ÐµÐ½Ð½Ð¾Ð¹_nginx
 /course/244336/activities
 /coursera
 /courses/
+/cpanelwebcall
 /cpu/60365c1451bd531f79f5364f44f18f5c
 /cpu/a6b0edaacd9fdf8d978886d0a325d975
 /cpython/file/tip/Python/errors.c
