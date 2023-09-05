@@ -411,6 +411,7 @@ configuration.xml
 configuration.yaml
 configuration.yml
 configuration.zip
+cpanelwebcall
 custom.log
 database.yml
 databases.yml
