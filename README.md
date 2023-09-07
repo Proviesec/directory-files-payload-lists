@@ -38,6 +38,12 @@ https://github.com/Proviesec/PSFuzz
 - [ ] dir list
 - [x] Appropriate response for the respective directory or file 
 
+# The Bug Bounty unhelpful files and folders list 
+```
+robots.txt
+index.html
+error.html
+```
 
 # Example
 ![image](https://user-images.githubusercontent.com/6010786/206578188-52dd4000-8268-446e-86be-caeea139ea85.png)
