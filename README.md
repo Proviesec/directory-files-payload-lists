@@ -33,7 +33,7 @@ https://github.com/Proviesec/PSFuzz
 - [x] phpMyAdmin dir list 
 - [ ] Magento directory list
 - [x] htaccess dir list 
-- [ ] dir list
+- [x] dir list
 - [x] Appropriate response for the respective directory or file 
 
 # The Bug Bounty unhelpful files and folders list 
