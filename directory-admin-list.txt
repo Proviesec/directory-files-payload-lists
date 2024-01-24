@@ -1330,6 +1330,10 @@ delacctadmin.php
 e107_admin
 editadminuser.php
 en-GB.com_admin.ini
+fileadmin/
+fileadmin.php
+fileadmin.asp
+fileadmin.html
 filter.admin.inc
 forum.admin.inc
 forumadmin.php
@@ -1427,6 +1431,8 @@ webadmin/admin.html
 webadmin/admin.php
 webadmin/index.html
 webadmin/index.php
+web_admin/
+wordpress/wp-admin.php
 webadmin/login.html
 webadmin/login.php
 wp-admin
