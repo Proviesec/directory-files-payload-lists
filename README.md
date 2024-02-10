@@ -58,8 +58,6 @@ https://hackerone.com/reports/1704035
 # How To 
 https://github.com/ffuf/ffuf
 
-
-
 # Writeups
 
 https://blog.infiltrateops.io/tesla-paid-me-10-000-because-of-directory-indexing-c1be06c77a3e
