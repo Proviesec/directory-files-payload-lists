@@ -22,7 +22,7 @@ https://github.com/Proviesec/PSFuzz
 
 - [x] WordPress directory list
 - [x] git directory list 
-- [x] Admindirectory list
+- [x] Admin directory list
 - [x] Grafana dir list 
 - [x] Joomla dir list
 - [x] Wordpress dir list
