@@ -1,3 +1,5 @@
 config.xml
 admin/.config
 .config
+.env
+backup.zip
