@@ -1,0 +1,14 @@
+# SPDX-License-Identifier: MIT
+name: Check wordlists
+
+on: [push, pull_request]
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - run: python3 scripts/check_lists.py

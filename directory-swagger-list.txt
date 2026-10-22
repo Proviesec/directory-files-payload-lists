@@ -43,7 +43,6 @@
 /apidocs
 /openapi
 /api/spec
-/swagger-ui.html#/
 /v1/docs
 /api/v1/redoc
 /swagger/docs/v1

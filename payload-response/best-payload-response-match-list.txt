@@ -3,7 +3,7 @@ config.xml | <?xml
 docker-compose.yml | version
 Makefile | MAKEFLAGS
 travis.yml | notifications
-.travis.yml | notifications | 
+.travis.yml | notifications
 config.txt | password | username | hostname | Key | token
 .aws/config | [default]
 .aws/credentials | [default]
