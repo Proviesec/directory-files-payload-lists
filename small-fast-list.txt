@@ -2,7 +2,6 @@
 !.htaccess
 !.htpasswd
 %20../
-%2e%2e//google.com
 %2e%2e;test/
 %3f/
 %C0%AE%C0%AE%C0%AF
@@ -94,6 +93,7 @@
 .cshrc
 .CSV
 .csv
+.cursor/mcp.json
 .CVS
 .cvs
 .cvsignore
@@ -126,9 +126,11 @@
 .env.development.sample
 .env.docker
 .env.docker.dev
+.env.local
 .env.php
 .env.prod
 .env.prod.local
+.env.production
 .env.production.local
 .env.sample.php
 .env.test.sample
@@ -177,6 +179,7 @@
 .git_release
 .gitattributes
 .gitconfig
+.github/copilot-instructions.md
 .gitignore
 .gitignore.swp
 .gitignore_global
@@ -424,6 +427,7 @@
 .pub/
 .pwd
 .pydevproject
+.pypirc
 .pytest_cache/
 .Python
 .python-eggs
@@ -1152,6 +1156,7 @@ admrev/_files/
 affiliate
 affiliate.php
 affiliates.sql
+AGENTS.md
 ak47.php
 akeeba.backend.log
 all/
@@ -1257,8 +1262,11 @@ appcache.manifest
 appengine-generated/
 applet
 application
+application-prod.yml
 application.log
+application.properties
 application.wadl
+application.yml
 application/
 application/cache/
 application/configs/application.ini
@@ -1269,6 +1277,8 @@ apps/
 apps/__pycache__/
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
+appsettings.json
+appsettings.Production.json
 appveyor.yml
 Aptfile
 ar-lib
@@ -1659,6 +1669,7 @@ classes/cookie.txt
 classes_gen
 classic.json
 classic.jsonp
+CLAUDE.md
 cleanup.log
 cli/
 client.ovpn
@@ -1710,6 +1721,8 @@ compass.rb
 compile
 compile_commands.json
 components/
+compose.yaml
+compose.yml
 composer.json
 composer.lock
 composer.phar
@@ -2412,6 +2425,7 @@ gaza.php
 gbpass.pl
 Gemfile
 Gemfile.lock
+GEMINI.md
 GEMINI/
 gen/
 Generated_Code/
@@ -2655,7 +2669,6 @@ INSTALL.txt
 Install.txt
 install.txt
 install/
-install/index.php?upgrade/
 install/update.log
 install_
 INSTALL_admin
@@ -2717,7 +2730,6 @@ jkstatus
 jkstatus-auth
 jmx-console
 jmx-console/
-jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
 jolokia
 jolokia/
@@ -3268,7 +3280,6 @@ old_site/
 oldfiles
 ona
 opa-debug-js
-open-flash-chart.swf?get-data=xss
 OpenCover/
 openshift/
 openstack/
@@ -3736,7 +3747,6 @@ protected/data/
 protected/runtime/
 providers.json
 proxy.pac
-proxy.stream?origin=https://google.com
 proxy/
 prv/
 PSUser/
@@ -3826,8 +3836,6 @@ relogin
 relogin.htm
 relogin.html
 relogin.php
-remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
-remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 repo/
 request.log
 requesthandler/
@@ -4136,7 +4144,6 @@ statsd/
 status.php
 status.xsl
 status/
-status?full=true
 statusicon/
 storage/
 storage/logs/laravel.log
@@ -4279,6 +4286,8 @@ templates/rhuk_milkyway/index.php
 templates/system/
 templates_c/
 teraform/
+terraform.tfstate
+terraform.tfstate.backup
 test
 test-build/
 test-driver
@@ -4537,7 +4546,6 @@ v2
 v2.0
 v2/
 v2/_catalog
-v2/keys/?recursive=true
 v3
 vadmind/
 vagrant-spec.config.rb
@@ -4613,7 +4621,6 @@ web-app/WEB-INF/classes
 web-console/
 web-console/Invoker
 web-console/ServerInfo.jsp
-web-console/status?full=true
 WEB-INF./
 WEB-INF./web.xml
 WEB-INF/
