@@ -2,7 +2,7 @@ grafana
 grafana-login
 grafana-system-services-dashboard.json
 GrafanaInstall.txt
-grafana-dashboard 
+grafana-dashboard
 dashboard
 public/img/grafana_mask_icon.svg
 log-grafana-javascript-agent
