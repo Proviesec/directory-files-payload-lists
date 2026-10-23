@@ -18,7 +18,7 @@ ffuf -w directory-best-sensitive-list.txt -u https://your-authorized-host.exampl
 
 ## Choosing and interpreting lists
 
-The [catalog](CATALOG.md) links every text file and describes its role. File names are retained for existing links, even where the name is historical: `top-1000-filenames.txt` currently contains **10,311** entries, and `small-fast-list.txt` contains **4,859**. These names do not imply a measured ranking or scan time. The full archive contains **189,644** entries and can be noisy or expensive to run.
+The [catalog](CATALOG.md) links every text file and describes its role. File names are retained for existing links, even where the name is historical: `top-1000-filenames.txt` currently contains **10,202** entries, and `small-fast-list.txt` contains **4,849**. These names do not imply a measured ranking or scan time. The full archive contains **189,477** entries and can be noisy or expensive to run.
 
 Most path lists contain one candidate per line. Some entries begin with `/`, end with `/`, contain percent encoding, or include placeholders such as `%EXT%` in the admin list. Review and adapt them for your scanner and target; do not assume every line is a ready-to-use URL. The [phpinfo list](directory-phpinfo-list.txt) also contains legacy expression payloads, so it is not a pure path list.
 

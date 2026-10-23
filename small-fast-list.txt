@@ -2,7 +2,6 @@
 !.htaccess
 !.htpasswd
 %20../
-%2e%2e//google.com
 %2e%2e;test/
 %3f/
 %C0%AE%C0%AE%C0%AF
@@ -2670,7 +2669,6 @@ INSTALL.txt
 Install.txt
 install.txt
 install/
-install/index.php?upgrade/
 install/update.log
 install_
 INSTALL_admin
@@ -2732,7 +2730,6 @@ jkstatus
 jkstatus-auth
 jmx-console
 jmx-console/
-jmx-console/HtmlAdaptor?action=inspectMBean&name=jboss.system:type=ServerInfo
 jo.php
 jolokia
 jolokia/
@@ -3283,7 +3280,6 @@ old_site/
 oldfiles
 ona
 opa-debug-js
-open-flash-chart.swf?get-data=xss
 OpenCover/
 openshift/
 openstack/
@@ -3751,7 +3747,6 @@ protected/data/
 protected/runtime/
 providers.json
 proxy.pac
-proxy.stream?origin=https://google.com
 proxy/
 prv/
 PSUser/
@@ -3841,8 +3836,6 @@ relogin
 relogin.htm
 relogin.html
 relogin.php
-remote/fgt_lang?lang=/../../../../////////////////////////bin/sslvpnd
-remote/fgt_lang?lang=/../../../..//////////dev/cmdb/sslvpn_websession
 repo/
 request.log
 requesthandler/
@@ -4151,7 +4144,6 @@ statsd/
 status.php
 status.xsl
 status/
-status?full=true
 statusicon/
 storage/
 storage/logs/laravel.log
@@ -4554,7 +4546,6 @@ v2
 v2.0
 v2/
 v2/_catalog
-v2/keys/?recursive=true
 v3
 vadmind/
 vagrant-spec.config.rb
@@ -4630,7 +4621,6 @@ web-app/WEB-INF/classes
 web-console/
 web-console/Invoker
 web-console/ServerInfo.jsp
-web-console/status?full=true
 WEB-INF./
 WEB-INF./web.xml
 WEB-INF/

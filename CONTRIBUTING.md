@@ -4,6 +4,8 @@ Corrections and new path candidates are welcome. Keep each addition small and ex
 
 For a path list, put one candidate per line without comments or surrounding whitespace. Preserve case, leading slashes, trailing slashes, and percent encoding when they matter. Check for an existing entry before adding a variant. If a value such as `%EXT%` needs substitution, describe it in the pull request.
 
+Keep the filename list free of host-specific domain names and the fast list focused on paths rather than query or exploit payloads. Put specialized test cases in a clearly labeled list if they are needed.
+
 Keep entries from `directory-best-sensitive-list.txt` in `small-fast-list.txt`, and entries from both `small-fast-list.txt` and `top-1000-filenames.txt` in `directory-full-list.txt`.
 
 Include the intended product or use case, expected response signal, likely false positives, and a public reference where possible. Do not submit real credentials, private data, or live target URLs. A login page, status code, or keyword match does not by itself show a vulnerability. AI-generated suggestions require manual review of the path and product terminology.
