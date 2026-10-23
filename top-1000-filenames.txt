@@ -12,6 +12,10 @@
 .cobalt
 .cvsignore
 .emacs
+.env
+.env.local
+.env.production
+.env.production.local
 .fhp
 .ftp
 .ftpquota
@@ -25,6 +29,7 @@
 .maintenance
 .members
 .mysql_history
+.npmrc
 .nsconfig
 .nsf
 .pass
@@ -36,6 +41,7 @@
 .profile
 .project
 .pwd
+.pypirc
 .rhost
 .rhosts
 .rvsPublish.ini.php
@@ -302,6 +308,7 @@ A.php
 AAAA.php
 ADOdb.php
 ADVANCED.txt
+AGENTS.md
 ANNOUNCE.txt
 AUTHORS.txt
 AX.php
@@ -488,6 +495,7 @@ CHANGELOG.TXT
 CHANGELOG.php
 CHANGELOG.txt
 CHANGES_14_15.txt
+CLAUDE.md
 CMSMailer.module.php
 CNAME.php
 COPYING.LESSER
@@ -832,6 +840,7 @@ G1MigrateMap.sql
 G2flv.swf
 G2mp3.swf
 GD.php
+GEMINI.md
 GETTEXT.txt
 GFPrintPro.5.0
 GH05T_W4RR10R.HTML
@@ -2759,15 +2768,20 @@ api.php5
 appearance.php
 applescript.php
 applet_img.jar
+application-prod.yml
 application.cfm
 application.js.php
 application.php
 application.php3
+application.properties
 application.tpl
+application.yml
 application_top.php
 apply_site.php
 apply_tpl.php
 approved.txt
+appsettings.Production.json
+appsettings.json
 appvars_actions.php
 april4videos.php
 apt_sources.php
@@ -3756,6 +3770,8 @@ complete.php
 component.php
 components.php
 compose.php
+compose.yaml
+compose.yml
 condition_names.tpl
 condition_points.tpl
 condition_set.tpl
@@ -3888,6 +3904,7 @@ cookie_usage.php
 cookieprova.php
 cookies.class.php
 cooliris3dwall.php
+copilot-instructions.md
 coppermine.inc.php
 copy.php
 copyescape.php
@@ -4078,6 +4095,7 @@ datetimepicker.js
 day_schedules.php
 db.inc.php
 db.php
+db.sql
 db2.php
 db_access.php
 db_backup.tpl
@@ -4309,6 +4327,7 @@ dlink530tx.old
 dlink530tx.oldest
 dload.php
 dlstats_nbulker.php
+docker-compose.yml
 docsql.php
 document.php
 document_general.php
@@ -6727,6 +6746,7 @@ maxusers.class.php
 mchat.php
 mchat_install.php
 mclayer.js
+mcp.json
 mcp.php
 mcp.php.bak
 mcp_album.php
@@ -9281,6 +9301,8 @@ terms.php
 terms_of_use.txt
 termsofuse.php
 termspage.php
+terraform.tfstate
+terraform.tfstate.backup
 test.aspx
 test.bat
 test.bmp
@@ -10089,6 +10111,7 @@ workshop3.php
 workshop4.php
 workshop5.php
 workshop_pages.php
+wp-config.php.bak
 wp.php
 wp2.3
 wp_posts.class.php

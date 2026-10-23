@@ -4,7 +4,7 @@ Path candidates for directory and file discovery during authorized web security 
 
 ## Start here
 
-1. Pick a list from the [catalog](CATALOG.md). The five-entry [sensitive shortlist](directory-best-sensitive-list.txt) is a small starting point; [Proviesec's favorites](directory-proviesec-favorite-list.txt) and [small-fast-list.txt](small-fast-list.txt) are broader. The [full list](directory-full-list.txt) is a large historical archive.
+1. Pick a list from the [catalog](CATALOG.md). The 20-entry [sensitive shortlist](directory-best-sensitive-list.txt) is a small starting point; [Proviesec's favorites](directory-proviesec-favorite-list.txt) and [small-fast-list.txt](small-fast-list.txt) are broader. The [full list](directory-full-list.txt) is a large historical archive.
 2. Check that the host and paths are in scope. Start with a low request rate and follow the owner's or bug bounty program's rules.
 3. Review responses manually. Many sites return the same page or a redirect for nonexistent paths; status code alone does not establish that a file exists or is exposed. Do not publish sensitive response bodies, credentials, or live target URLs in issues or pull requests.
 
@@ -18,7 +18,7 @@ ffuf -w directory-best-sensitive-list.txt -u https://your-authorized-host.exampl
 
 ## Choosing and interpreting lists
 
-The [catalog](CATALOG.md) links every text file and describes its role. File names are retained for existing links, even where the name is historical: `top-1000-filenames.txt` currently contains **10,288** entries, and `small-fast-list.txt` contains **4,842**. These names do not imply a measured ranking or scan time. The full archive contains **189,630** entries and can be noisy or expensive to run.
+The [catalog](CATALOG.md) links every text file and describes its role. File names are retained for existing links, even where the name is historical: `top-1000-filenames.txt` currently contains **10,311** entries, and `small-fast-list.txt` contains **4,859**. These names do not imply a measured ranking or scan time. The full archive contains **189,644** entries and can be noisy or expensive to run.
 
 Most path lists contain one candidate per line. Some entries begin with `/`, end with `/`, contain percent encoding, or include placeholders such as `%EXT%` in the admin list. Review and adapt them for your scanner and target; do not assume every line is a ready-to-use URL. The [phpinfo list](directory-phpinfo-list.txt) also contains legacy expression payloads, so it is not a pure path list.
 
@@ -26,7 +26,7 @@ The file in [`payload-response/`](payload-response/best-payload-response-match-l
 
 ## Contribute
 
-See [CONTRIBUTING.md](CONTRIBUTING.md). Explain why a path belongs in a list, when it is useful, and common false positives. Do not add real secrets, private data, or target-specific URLs. The offline [list check](scripts/check_lists.py) catches basic formatting errors and duplicates in maintained lists; it does not validate live results. Large historical lists and the mixed phpinfo list are documented exceptions.
+See [CONTRIBUTING.md](CONTRIBUTING.md). Explain why a path belongs in a list, when it is useful, and common false positives. Do not add real secrets, private data, or target-specific URLs. The offline [list check](scripts/check_lists.py) catches basic formatting errors, duplicates, and missing entries in the larger lists; it does not validate live results. The mixed phpinfo list remains a formatting exception. The full archive is checked for format and inclusion, but its usefulness has not been validated entry by entry.
 
 ## License and attribution
 

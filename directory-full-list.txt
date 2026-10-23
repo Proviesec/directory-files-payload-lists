@@ -3435,7 +3435,6 @@ _zoo3wiqigvi
 /all-results
 /all-results/q-XSS/
 /all-your-facebook-access-tokens-are-belong-to-us/
-/allÂ 
 /alok/posts/10153879581346840
 /Alra3ees/status/1019688968001130504
 /american-airlines-reminders/
@@ -165481,7 +165480,6 @@ secchat
 seccio
 seccion
 secciones
-secci�
 secexfile
 secexkeyfileformat
 secexmailbuy
@@ -170319,7 +170317,7 @@ spamroll
 spamrules
 spams
 Spams.php
-spamsetti 
+spamsetti
 spamsites
 spamsmall
 spamsol
@@ -178966,7 +178964,7 @@ TranslatorTest.class
 translit
 translit.js
 transmeta_crudele
-transmissio  
+transmissio
 transmission
 transmission/web/
 transmit
@@ -189628,3 +189626,19 @@ zz
 zzed
 zzz
 zzzzzz
+.cursor/mcp.json
+.github/copilot-instructions.md
+AGENTS.md
+application-prod.yml
+application.properties
+application.yml
+appsettings.json
+appsettings.Production.json
+CLAUDE.md
+compose.yaml
+compose.yml
+copilot-instructions.md
+GEMINI.md
+mcp.json
+terraform.tfstate
+terraform.tfstate.backup

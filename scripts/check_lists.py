@@ -7,15 +7,20 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 LEGACY = {
-    "directory-full-list.txt",  # Large historical archive; not curated.
     "directory-phpinfo-list.txt",  # Contains expression payloads as well as paths.
 }
+INCLUDES = (
+    ("directory-best-sensitive-list.txt", "small-fast-list.txt"),
+    ("small-fast-list.txt", "directory-full-list.txt"),
+    ("top-1000-filenames.txt", "directory-full-list.txt"),
+)
 
 
 def main() -> int:
     problems = []
     checked = 0
     skipped = 0
+    entries = {}
     for path in sorted(ROOT.rglob("*.txt")):
         name = path.relative_to(ROOT).as_posix()
         try:
@@ -35,11 +40,20 @@ def main() -> int:
                 problems.append(f"{name}:{number}: blank or surrounding whitespace")
             if line in seen:
                 problems.append(f"{name}:{number}: duplicate entry: {line!r}")
+            if "\ufffd" in line:
+                problems.append(f"{name}:{number}: replacement character in entry")
             seen.add(line)
+        entries[name] = seen
+
+    for smaller, larger in INCLUDES:
+        missing = entries.get(smaller, set()) - entries.get(larger, set())
+        if missing:
+            examples = sorted(missing)[:5]
+            problems.append(f"{smaller}: {len(missing)} entries missing from {larger}: {examples!r}")
 
     for problem in problems:
         print(problem)
-    print(f"Checked {checked} maintained lists; {skipped} legacy lists exempt; {len(problems)} issues.")
+    print(f"Checked {checked} lists for format and inclusion; {skipped} legacy exception; {len(problems)} issues.")
     return 1 if problems else 0
 
 

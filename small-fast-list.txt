@@ -94,6 +94,7 @@
 .cshrc
 .CSV
 .csv
+.cursor/mcp.json
 .CVS
 .cvs
 .cvsignore
@@ -126,9 +127,11 @@
 .env.development.sample
 .env.docker
 .env.docker.dev
+.env.local
 .env.php
 .env.prod
 .env.prod.local
+.env.production
 .env.production.local
 .env.sample.php
 .env.test.sample
@@ -177,6 +180,7 @@
 .git_release
 .gitattributes
 .gitconfig
+.github/copilot-instructions.md
 .gitignore
 .gitignore.swp
 .gitignore_global
@@ -424,6 +428,7 @@
 .pub/
 .pwd
 .pydevproject
+.pypirc
 .pytest_cache/
 .Python
 .python-eggs
@@ -1152,6 +1157,7 @@ admrev/_files/
 affiliate
 affiliate.php
 affiliates.sql
+AGENTS.md
 ak47.php
 akeeba.backend.log
 all/
@@ -1257,8 +1263,11 @@ appcache.manifest
 appengine-generated/
 applet
 application
+application-prod.yml
 application.log
+application.properties
 application.wadl
+application.yml
 application/
 application/cache/
 application/configs/application.ini
@@ -1269,6 +1278,8 @@ apps/
 apps/__pycache__/
 apps/frontend/config/app.yml
 apps/frontend/config/databases.yml
+appsettings.json
+appsettings.Production.json
 appveyor.yml
 Aptfile
 ar-lib
@@ -1659,6 +1670,7 @@ classes/cookie.txt
 classes_gen
 classic.json
 classic.jsonp
+CLAUDE.md
 cleanup.log
 cli/
 client.ovpn
@@ -1710,6 +1722,8 @@ compass.rb
 compile
 compile_commands.json
 components/
+compose.yaml
+compose.yml
 composer.json
 composer.lock
 composer.phar
@@ -2412,6 +2426,7 @@ gaza.php
 gbpass.pl
 Gemfile
 Gemfile.lock
+GEMINI.md
 GEMINI/
 gen/
 Generated_Code/
@@ -4279,6 +4294,8 @@ templates/rhuk_milkyway/index.php
 templates/system/
 templates_c/
 teraform/
+terraform.tfstate
+terraform.tfstate.backup
 test
 test-build/
 test-driver

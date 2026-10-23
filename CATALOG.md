@@ -6,12 +6,14 @@ These files contain candidate paths, not verified findings. Existing names are k
 
 | File | Contents |
 | --- | --- |
-| [directory-best-sensitive-list.txt](directory-best-sensitive-list.txt) | Five common configuration and backup path candidates. |
+| [directory-best-sensitive-list.txt](directory-best-sensitive-list.txt) | 20 configuration, state, credential-file, and backup path candidates; no measured ranking. |
 | [directory-proviesec-favorite-list.txt](directory-proviesec-favorite-list.txt) | Proviesec's broader selection; not ranked by measured success. |
 | [directory-proviesec-interesting-list.txt](directory-proviesec-interesting-list.txt) | Two upload directory candidates, also present in the upload list. |
-| [small-fast-list.txt](small-fast-list.txt) | 4,842 mixed path and filename candidates; “fast” is a historical name. |
-| [top-1000-filenames.txt](top-1000-filenames.txt) | 10,288 filename candidates; the historical filename does not match its current size. |
-| [directory-full-list.txt](directory-full-list.txt) | 189,630-entry historical archive; not curated or live-validated. |
+| [small-fast-list.txt](small-fast-list.txt) | 4,859 mixed path and filename candidates; “fast” is a historical name. |
+| [top-1000-filenames.txt](top-1000-filenames.txt) | 10,311 mostly filename candidates, with some paths; the historical filename does not match its current size. |
+| [directory-full-list.txt](directory-full-list.txt) | 189,644-entry historical archive; format-checked, not live-validated. |
+
+The October 2026 refresh adds documented names for [Docker Compose](https://docs.docker.com/compose/intro/compose-application-model/), [Terraform state](https://developer.hashicorp.com/terraform/language/state), [ASP.NET Core settings](https://learn.microsoft.com/en-us/aspnet/core/fundamentals/configuration/), and [Spring Boot configuration](https://docs.spring.io/spring-boot/reference/features/external-config.html). Agent-related paths follow [GitHub's instruction-file documentation](https://docs.github.com/en/copilot/tutorials/cloud-agent/get-the-best-results) and [Cursor's MCP documentation](https://docs.cursor.com/context/model-context-protocol). These sources confirm filenames and roles, not that a public match is sensitive or exploitable.
 
 ## Focused path lists
 
