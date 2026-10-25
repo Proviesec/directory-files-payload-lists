@@ -12,6 +12,10 @@
 .cobalt
 .cvsignore
 .emacs
+.env
+.env.local
+.env.production
+.env.production.local
 .fhp
 .ftp
 .ftpquota
@@ -25,6 +29,7 @@
 .maintenance
 .members
 .mysql_history
+.npmrc
 .nsconfig
 .nsf
 .pass
@@ -36,6 +41,7 @@
 .profile
 .project
 .pwd
+.pypirc
 .rhost
 .rhosts
 .rvsPublish.ini.php
@@ -113,7 +119,6 @@
 1_tag.tpl.php
 1_viewthread.tpl.php
 1_whosonline.tpl.php
-1centmovie.com/
 1poundadv.com
 2.0
 2.1
@@ -180,8 +185,6 @@
 3.8
 3.9
 3.php
-31.capeb.fr/
-3113.com/
 3D_preview.php
 3GIS2001.ppt
 3col_leftNav.css.mno
@@ -302,6 +305,7 @@ A.php
 AAAA.php
 ADOdb.php
 ADVANCED.txt
+AGENTS.md
 ANNOUNCE.txt
 AUTHORS.txt
 AX.php
@@ -488,6 +492,7 @@ CHANGELOG.TXT
 CHANGELOG.php
 CHANGELOG.txt
 CHANGES_14_15.txt
+CLAUDE.md
 CMSMailer.module.php
 CNAME.php
 COPYING.LESSER
@@ -832,6 +837,7 @@ G1MigrateMap.sql
 G2flv.swf
 G2mp3.swf
 GD.php
+GEMINI.md
 GETTEXT.txt
 GFPrintPro.5.0
 GH05T_W4RR10R.HTML
@@ -2336,7 +2342,6 @@ a_menu_pannello.php
 a_top.php
 a_top_lingue.php
 a_top_pannello.php
-aapec.free.fr/
 abap.php
 abbr.js
 abi.ini
@@ -2384,7 +2389,6 @@ account_info.tpl
 account_managers.php
 account_password.php
 accounting.php
-acgo.netau.net/
 achg.htr
 acl.sql
 acp_ban.html.bak
@@ -2524,7 +2528,6 @@ admin.tpl
 admin.tpl.php
 admin.trash.html.php
 admin.trash.php
-admin.webrpp.com/
 admin_1.9.js
 admin_account.php
 admin_actions.php
@@ -2578,7 +2581,6 @@ adodb.inc.php
 adodb_license.txt
 adodb_th.inc.php
 adodblite_module.inc
-adoptabear.co.uk/
 adpassword.txt
 adquestions.php
 adquestions_ed.php
@@ -2603,7 +2605,6 @@ ads_edit.php
 ads_request.php
 ads_user_request.php
 adsadvanced.php
-adtelly.tv/
 adv.inc.php
 adv_counter.php
 adv_search.php
@@ -2643,11 +2644,8 @@ agenda2.php3
 agendaplace.php3
 agendaplace2.php3
 agora.cgi
-agoralp.scolalp.org/
 agreement.tpl
 ahorcado.php
-ahz.ir/
-aias.cs.ucy.ac.cy/
 aicontactsafe.js.php
 aicontactsafe.php
 aidonate.php
@@ -2703,7 +2701,6 @@ allSeminars.php
 all_classes.php
 all_header.tpl.php
 allbidders.php
-allkindstuff.com/
 almohanad.php
 alt_nav.php
 alta.php
@@ -2723,7 +2720,6 @@ analyse.cgi
 analytics.php
 analyze.php
 anchor.js
-andrewlillard.com/
 anews.php
 animation1.ram
 ankieta.db
@@ -2759,15 +2755,20 @@ api.php5
 appearance.php
 applescript.php
 applet_img.jar
+application-prod.yml
 application.cfm
 application.js.php
 application.php
 application.php3
+application.properties
 application.tpl
+application.yml
 application_top.php
 apply_site.php
 apply_tpl.php
 approved.txt
+appsettings.Production.json
+appsettings.json
 appvars_actions.php
 april4videos.php
 apt_sources.php
@@ -2825,7 +2826,6 @@ assignments_list.jsp
 associate.php
 asubscribe.php
 asugstions.php
-atis.net/
 atom.php
 atomlib.php
 atrac1.0
@@ -2875,7 +2875,6 @@ authors.pwd
 authupdate.zip
 auto_install.php
 autobackup.php
-autobiographes.com/
 autoblogged.php
 autocomplete.js
 autocomplete.php
@@ -2890,10 +2889,8 @@ avatar.php
 avatar_manage.php
 avatars.php
 avisynth.php
-awalads.awalnet.com/
 awards.php
 awardsEN.php
-azspace.net/
 b.php
 back1.rt
 back2.rt
@@ -2953,7 +2950,6 @@ basic.php
 basic.sql
 basic4gl.php
 basilix.php3
-bays.ru/
 bbcode.class
 bbcode.php
 bbcode.tpl
@@ -2994,7 +2990,6 @@ bind.html.fr
 bind.html.ja.jis
 bindex.php
 binlog.lib.php
-bioconference.org/
 bitrate.rt
 bitrate_example.rt
 bitrate_title.rt
@@ -3032,7 +3027,6 @@ blogger.php
 bloggerapi.php
 blogpage.php
 blogs.moderation.php
-blondeau.us/
 blowfish.php
 bn.js
 bnf.php
@@ -3071,7 +3065,6 @@ bounty.php
 box.js
 box.php
 boxes.php
-brain.com.pk/
 brainfuck.js
 brand.php
 brazilian.lng.php
@@ -3420,7 +3413,6 @@ changelog_fr.txt
 changemail.php
 changepass.php
 changes.sql
-chapman.org.za/
 chapter1.ram
 chapter1.smil
 chapter2.ram
@@ -3475,7 +3467,6 @@ checkout_process.php
 checkout_success.php
 checktools.inc.php
 chimp_text.rt
-chinamode.net/
 chinese.php
 chk_rel.php
 chmod.php
@@ -3486,7 +3477,6 @@ choosing.tpl
 chrome.php
 chrome_new.php
 ci.old
-ciffop.fr/
 cil.php
 cinfo.php
 cite.js
@@ -3756,6 +3746,8 @@ complete.php
 component.php
 components.php
 compose.php
+compose.yaml
+compose.yml
 condition_names.tpl
 condition_points.tpl
 condition_set.tpl
@@ -3888,6 +3880,7 @@ cookie_usage.php
 cookieprova.php
 cookies.class.php
 cooliris3dwall.php
+copilot-instructions.md
 coppermine.inc.php
 copy.php
 copyescape.php
@@ -3905,7 +3898,6 @@ core.rm_auto.php
 core.rmdir.php
 core.write_file.php
 core_functions.php
-corinser.com/
 corp.php
 corpo.php
 corpo_mod.php
@@ -3967,7 +3959,6 @@ cron.php.bak
 crop.php
 cropper.js
 crypt.inc.php
-cs.boisestate.edu/
 cs.js
 cs.php
 cs_CZ.php
@@ -3983,7 +3974,6 @@ cssmenu.tpl
 cssurl.class.php
 csv.class.php
 csv.php
-cuisinedemaman.fr/
 currencies.php
 currencies.tpl
 currency.tpl
@@ -4078,6 +4068,7 @@ datetimepicker.js
 day_schedules.php
 db.inc.php
 db.php
+db.sql
 db2.php
 db_access.php
 db_backup.tpl
@@ -4226,7 +4217,6 @@ deleteuser.php
 deleteuserplugin.php
 delfromcart.php
 delphi.php
-demo.openmrkt.com/
 demo.zip
 denethor.GIF
 denied.txt
@@ -4245,14 +4235,12 @@ details_up.php
 deutsch.lng.php
 device.php
 devkit.js
-devserver6.info/
 dfdf.php
 dfile.php
 dhl.tpl
 dhtmlHistory.js
 dhtmlext.php
 dhtmltextarea.php
-diabetesinyoung.com/
 diacritic.js
 diag.php
 diagondb.txt
@@ -4309,6 +4297,7 @@ dlink530tx.old
 dlink530tx.oldest
 dload.php
 dlstats_nbulker.php
+docker-compose.yml
 docsql.php
 document.php
 document_general.php
@@ -4501,14 +4490,12 @@ effects.slide.js
 effects.slide.min.js
 effects.transfer.js
 egoods.tpl
-egoscriptor.com/
 ehh.txt
 eiffel.php
 eitc97.ppt
 el.js
 el_GR.php
 el_dlg.js
-elarossin.com/
 ele_check.php
 ele_html.php
 ele_radio.php
@@ -4526,7 +4513,6 @@ elements.php
 elementswap.js
 eligible.php
 elinks.or.cz
-elite6.tol.it/
 elrond.JPG
 email.class.php
 email.lst
@@ -4580,7 +4566,6 @@ endsync_graph2.rt
 endsync_graph3.rt
 endsync_title.rt
 eng.php
-engiedu.com/
 engine_compress.js
 english.bak
 english.lng.php
@@ -4612,7 +4597,6 @@ eowyn.GIF
 equipment_btn.fla
 equipment_btn.swf
 ereview.php
-ermoney.net78.net/
 error.log
 error.php
 error.tpl
@@ -4658,7 +4642,6 @@ eu_ES.php
 eval.cfm
 evaluate.cfm
 evaluation.tpl
-evarexx.com/
 evennews_blocks.php
 event.php
 event_delay.rt
@@ -4727,7 +4710,6 @@ extra_fields.tpl
 extrafield.php
 extrafields.php
 extrainfo.php
-eyezbd.com/
 ezpages.php
 f.php
 f_buy_now.tpl
@@ -4742,7 +4724,6 @@ facultyForum.php
 facultyInfo.php
 facultyInfoEN.php
 fader.php
-fakeb00k.netau.net/
 fancy_categories.tpl
 fancybox_1.2.5.js
 fancymenu.js
@@ -5089,7 +5070,6 @@ formtinymce.php
 foro.php
 fortran.php
 fortress.php
-forum.elpresa.com/
 forum.inc.php
 forum.php
 forumLib.class.php
@@ -5109,7 +5089,6 @@ fp4areg.dll
 fpcount.exe
 fpdf.inc.php
 fpdf.php
-fphotos.50webs.com/
 fpremadm.exe
 fpsrvadm.exe
 fr.js
@@ -5157,11 +5136,9 @@ ftp.abuledu.org
 ftp.archlinux.org
 ftp.centos.org
 ftp.debian.org
-ftp.free.fr/
 ftp.freebsd.org
 ftp.fsn.hu
 ftp.gentoo.org
-ftp.jaist.ac.jp/
 ftp.kernel.org
 ftp.knoppix.org
 ftp.mandriva.com
@@ -5172,7 +5149,6 @@ ftp.php
 ftp.pingoo.org
 ftp.ubuntu.com
 ftp.xubuntu.com
-ftpbux.com/
 ftppro32.dll
 fujifilm.inc
 fujifilm.php
@@ -5329,7 +5305,6 @@ gettext.inc
 gettext.php
 gettextinc.php
 gfeedfetcher.js
-ghis.bt.free.fr/
 gif.php
 gif_1.js
 giftcert.tpl
@@ -5346,7 +5321,6 @@ gill.swf
 gimli.JPG
 git.git
 gittorrent.git
-gja.com.au/
 gk.script.js
 gl.js
 gladius_datadict.inc
@@ -5380,7 +5354,6 @@ go_back.tpl
 go_image.tpl
 go_image_menu.tpl
 golink.php
-goodbyepaper.fr/
 goods_script.php
 google.php
 google_analytics.php
@@ -5411,7 +5384,6 @@ grafiki.fig
 grafiki2.fig
 grafiki3.fig
 grafiki4.fig
-gramotoring.com/
 graph.php
 graphfactory.php
 graphjpgraph.php
@@ -5451,7 +5423,6 @@ gzip.php
 gzip_compression.php
 h.php
 haSerializer.js
-halkinsesitv.info/
 halloffame.php
 handler.html.en
 handler.html.ja.jis
@@ -5459,7 +5430,6 @@ handlerregistry.php
 handlers.dev.js
 handlers.js
 handlevirus.php
-hansen.bvs.ilsl.br/
 happyhounds1.txt
 happyhounds2.txt
 haskell.php
@@ -5773,7 +5743,6 @@ hlp_ups.tpl
 hobbits.JPG
 home.cfm
 home.cfml
-home.crhan.com/
 home.inc.php
 home.php
 home.tpl
@@ -5879,7 +5848,6 @@ id.txt
 id_ID.php
 id_exampl_code.rt
 idl.php
-idranaz.com/
 idv3_settings.php
 idv_mailin_form.php
 ie_delimiter.tpl
@@ -5898,7 +5866,6 @@ igb.php
 ignitegallery.php
 iirturnh.htw
 iirturnh.htwa
-ilassalvy.free.fr/
 ilink.php
 image.cfc
 image.class.php
@@ -5906,7 +5873,6 @@ image.js
 image.php
 image.tpl
 image.ttf
-image.yeoin.com/
 imageTest.php
 image_area.tpl
 image_background.js
@@ -5948,7 +5914,6 @@ imageset.php
 imagesetimg.php
 imatge.php
 imatgelogin.php
-imcworld.net/
 img.jar
 img.php
 img_auth.php
@@ -6064,9 +6029,7 @@ indexm.php
 indexold.php
 indexorjj.php
 indonesia2014.com
-indonesia2050.com/
 info.inc.php
-info.indiatimes.com/
 info.ini
 info.php
 info.txt
@@ -6146,7 +6109,6 @@ intro2.swf
 introduction.rt
 inv_update.tpl
 inv_updated.tpl
-investdomains.com/
 invia.php
 invitation.doc
 invitation.php
@@ -6196,7 +6158,6 @@ itemlist.php
 items.php
 itemslist.php
 itemstorage.php
-itinfogroup.in/
 itransact.php
 itransact_split.php
 iw_IL.php
@@ -6233,13 +6194,11 @@ jobVacancies.php
 job_desc.php
 jobposting.php
 jobposts_old.php
-jobry.com/
 jobry.sql
 jobryus.sql
 jobsource.php
 join.php
 joint.php
-jonas.nitro.dk/
 jone.php
 joomgallery.html.php
 joomgallery.php
@@ -6325,7 +6284,6 @@ jswizard.inc.php
 judges.php
 judges_opener.php
 judging.php
-julien.b5.free.fr/
 jumi.php
 jumi_demo.php
 jumpbox.tpl
@@ -6343,13 +6301,8 @@ k2plugin.php
 k2tag.php
 k2user.php
 k2usergroup.php
-kadoee.co.uk/
-kambing.ui.ac.id/
-karitoo.free.fr/
-kccricket.net/
 keepalive.html.en
 kenny3.rm
-kenstars.com/
 kettenrad.php
 keyboard.js
 keys.js
@@ -6365,7 +6318,6 @@ km.js
 ko.js
 koala.rm
 korean.php
-kr59.ru/
 kses.php
 l.php
 l10n.dev.js
@@ -6444,7 +6396,6 @@ leadership.php
 leaflet.php
 leaflet2.swf
 league.php
-lebonprix.com/
 left.php
 left_bar.tpl
 left_menu_var.php
@@ -6628,7 +6579,6 @@ m68k.php
 mImage.php
 ma.php
 ma_show.php
-madamepont.com/
 madblanks.html.php
 madblanks.php
 made_of.doc
@@ -6719,14 +6669,13 @@ masterResources.php
 masterRqmnts.php
 masterRqmntsEN.php
 matlab.php
-matmanagement.net/
-matthewolfer.com/
 maxdb_datadict.inc
 maxdb_driver.inc
 maxusers.class.php
 mchat.php
 mchat_install.php
 mclayer.js
+mcp.json
 mcp.php
 mcp.php.bak
 mcp_album.php
@@ -6777,7 +6726,6 @@ membership11.php
 memberships.tpl
 memberslist.php
 memcache.php
-meme.nbcr.net/
 meme_3.5.4.patches
 memory.lib.php
 memvalidate.js
@@ -6854,7 +6802,6 @@ method.uninstall.php
 method.upgrade.php
 methods.php
 methoduninstall.php
-mgsm800.au.com/
 mhexample1.shtml
 mhexample2.shtml
 mi.old
@@ -7113,7 +7060,6 @@ mybb.inc.php
 myblockslist.php
 mycontents.php
 mydownload.php
-myemail.com/
 mygroupperm.php
 mygrouppermform.php
 myisam.lib.php
@@ -7140,9 +7086,7 @@ mysqli_driver.inc
 mysqlt_datadict.inc
 mysqlt_driver.inc
 mytrustdirname.php
-nainwak.com/
 names.nsf
-nass77.free.fr/
 native.ini
 native.php
 nativeEncoding.txt
@@ -7240,10 +7184,8 @@ nikon.inc
 nikon.php
 ninjaxplorer.php
 nivaky.com
-nivaky.com/
 nl.js
 nl.php
-nl2k.ab.ca/
 nl_NL.php
 nl_dlg.js
 nld_065_1.5
@@ -7319,7 +7261,6 @@ offer_nav.tpl
 offer_status.tpl
 offers.tpl
 offers_list.tpl
-office.avhan.co.in/
 officeStaff.php
 officeStaffEN.php
 offices.php
@@ -7413,10 +7354,8 @@ orders_export_qb.tpl
 orders_list.tpl
 orders_status.php
 orders_tracking.tpl
-orianda.biz/
 origvlweather.sql
 os.dat
-oscarvalho.com/
 ot_coupon.php
 ot_discount.bak
 ot_discount.php
@@ -8310,7 +8249,6 @@ robots.php
 robots.txt
 robotstxt.js
 rodzinakrolewska.doc
-rogunix.com/
 rokcandy.php
 rokcandy_button.php
 rokcandy_system.php
@@ -8936,7 +8874,6 @@ ssi.php
 sslSwitch.inc.php
 ssl_check.php
 sss.txt
-staceybenben.com/
 staff.php
 staff_buttons.php
 staff_buttonsEN.php
@@ -9128,7 +9065,6 @@ tab.js
 tab.php
 tab.tpl
 tab_10.1
-tablatune.com/
 table.categories.php
 table.countries.php
 table.currencies.php
@@ -9281,6 +9217,8 @@ terms.php
 terms_of_use.txt
 termsofuse.php
 termspage.php
+terraform.tfstate
+terraform.tfstate.backup
 test.aspx
 test.bat
 test.bmp
@@ -10020,7 +9958,6 @@ webdrop.js
 weblink.php
 weblinks.php
 weblog.php
-webmail.kapix.fr/
 websitelink.swf
 websitelink2.swf
 webtribulation.com
@@ -10089,6 +10026,7 @@ workshop3.php
 workshop4.php
 workshop5.php
 workshop_pages.php
+wp-config.php.bak
 wp.php
 wp2.3
 wp_posts.class.php
@@ -10106,32 +10044,8 @@ wsc.js
 wsgi.py
 www.ThisOldTruck.com
 www.addthis.com
-www.airsure.co.nz/
-www.artmosh.com/
-www.chat2me247.com/
-www.drwelectric.com/
 www.egoscriptor.com
-www.egotop.com/
-www.ekizzlers.in/
-www.falty.com/
-www.gecem.com/
-www.gexlighting.com/
-www.heavenly.fr/
-www.ibiblio.org/
-www.iccnet.cm/
-www.joingod.com/
-www.kite4sail.com/
-www.lam.jussieu.fr/
-www.mbbac.org/
-www.medcell.cl/
 www.php
-www.skmh.org.np/
-www.success2all.com/
-www.talisman.org/
-www.tonjac.org/
-www.tux.org/
-www.uac.bj/
-www.weemsfamily.net/
 wwwadmin.cgi
 wwwadmin.pl
 wwwboard.cgi
